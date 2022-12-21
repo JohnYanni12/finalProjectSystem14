@@ -19,9 +19,6 @@ public class Main {
         stuart.rings="5";
         stuart.temperature="-4884848k";
 
-//        AdmsProject adam = new AdmsProject();
-//        adam.name = "Moon";
-//        adam.number = 36;
 
     }
 }
