@@ -19,6 +19,10 @@ public class Main {
         stuart.rings="5";
         stuart.temperature="-4884848k";
 
-
+        Adam2 adam2=new Adam2();
+        adam2.color="pink";
+        adam2.size=3498;
+        adam2.rings="1";
+        adam2.temperature="9238k";
     }
 }
